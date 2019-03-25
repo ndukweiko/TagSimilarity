@@ -10,3 +10,4 @@ and that the database would provide constraints not allowing a user to insert mu
 The final database consists of the Content table(the csv data) and two additional tables that I added to serve the purposes
 of my project: The users table (a table of users for the system) and the user_content table (an intermediary table relating users and
 the content they've enjoyed).
+I felt this was a good idea because I know that IGN already links whatever article a user might be currently reading to other similar pieces of media, but I thought that providing content suggestions based on a user's historical data might refine the experience of browsing IGN even further. 
